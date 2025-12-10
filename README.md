@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, I'm Ugan
 
 Welcome to my GitHub! I'm a passionate **React & Node.js developer** building web applications that are fast, modern, and user-friendly.  
@@ -16,7 +14,15 @@ Here’s what I work with most:
 | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
+---
 
+## 🔭 Current Focus
+- Building **React + Node.js fullstack apps**
+- Exploring **modern state management** with Redux & Zustand
+- Improving **UX/UI with TailwindCSS**
+- Working with **REST APIs & Supabase**
+
+---
 
 ## 📫 Connect with Me
 
