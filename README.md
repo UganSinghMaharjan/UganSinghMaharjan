@@ -1,12 +1,10 @@
 # 👋 Hello, I'm Ugan
 
-Welcome to my GitHub! I'm a passionate **React & Node.js developer** building web applications that are fast, modern, and user-friendly.  
+Welcome to my GitHub! I'm a passionate **React & Node.js developer** building modern, user-friendly web applications.  
 
 ---
 
 ## 🛠️ Tech Stack
-
-Here’s what I work with most:
 
 | Frontend | Backend | Tools & Others |
 |----------|---------|----------------|
@@ -18,10 +16,18 @@ Here’s what I work with most:
 
 ## 🔭 Current Focus
 - Building **React + Node.js fullstack apps**
-- Exploring **modern state management** with Redux & Zustand
 - Improving **UX/UI with TailwindCSS**
 - Working with **REST APIs & Supabase**
 
+---
+
+## 📫 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin>)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/<your-twitter>)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<your-email>)
+
+---
 
 ## 📊 GitHub Stats
 
