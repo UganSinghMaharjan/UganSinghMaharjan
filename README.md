@@ -30,8 +30,12 @@ Welcome to my GitHub! I'm a passionate **React & Node.js developer** building mo
 ---
 
 ## 📊 GitHub Stats
-![Ugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UganSinghMaharjan&layout=compact&theme=dark)
+
+![Ugan's GitHub followers](https://img.shields.io/github/followers/UganSinghMaharjan?style=social)
+![Ugan's GitHub repos](https://img.shields.io/github/repos/UganSinghMaharjan?style=for-the-badge)
+![Ugan's GitHub stars](https://img.shields.io/github/stars/UganSinghMaharjan?style=for-the-badge)
+![Ugan's GitHub top language](https://img.shields.io/github/languages/top/UganSinghMaharjan?style=for-the-badge)
+
 
 
 ---
