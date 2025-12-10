@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Ugan
 
-Welcome to my GitHub! I'm a passionate **React & Node.js developer** building modern, user-friendly web applications.  
-
----
+## 🌱 About Me
+Hi! I'm Ugan, a React & Node.js developer passionate about building modern web apps.  
+I love clean UI, responsive design, and solving real-world problems with code.
 
 ## 🛠️ Tech Stack
 
