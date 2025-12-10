@@ -25,8 +25,8 @@ Here’s what I work with most:
 
 ## 📊 GitHub Stats
 
-![Ugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)
+![Ugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UganSinghMaharjan&layout=compact&theme=radical)
 
 ---
 
