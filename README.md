@@ -31,10 +31,11 @@ I love clean UI, responsive design, and solving real-world problems with code.
 
 ## 📊 GitHub Stats
 
-![Ugan's GitHub followers](https://img.shields.io/github/followers/UganSinghMaharjan?style=social)
-![Ugan's GitHub repos](https://img.shields.io/github/repos/UganSinghMaharjan?style=for-the-badge)
-![Ugan's GitHub stars](https://img.shields.io/github/stars/UganSinghMaharjan?style=for-the-badge)
-![Ugan's GitHub top language](https://img.shields.io/github/languages/top/UganSinghMaharjan?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/UganSinghMaharjan?style=social)
+![Repos](https://img.shields.io/github/repo-count/UganSinghMaharjan?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/UganSinghMaharjan?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/UganSinghMaharjan?style=for-the-badge)
+
 
 ---
 
