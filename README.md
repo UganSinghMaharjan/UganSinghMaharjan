@@ -28,6 +28,7 @@ I love clean UI, responsive design, and solving real-world problems with code.
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<your-email>)
 
 ---
+
 ## 📊 GitHub Stats
 
 ![Ugan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true&theme=radical)
