@@ -28,13 +28,11 @@ I love clean UI, responsive design, and solving real-world problems with code.
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<your-email>)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/UganSinghMaharjan?style=social)
-![Repos](https://img.shields.io/github/repo-count/UganSinghMaharjan?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/UganSinghMaharjan?style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/UganSinghMaharjan?style=for-the-badge)
+![Ugan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UganSinghMaharjan&layout=compact&theme=radical)
+
 
 
 ---
