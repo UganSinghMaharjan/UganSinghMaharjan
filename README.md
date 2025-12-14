@@ -33,10 +33,6 @@ I love clean UI, responsive design, and solving real-world problems with code.
 ![Ugan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UganSinghMaharjan&layout=compact&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UganSinghMaharjan&layout=compact&theme=onedark)](https://github.com/UganSinghMaharjan)
-
-
-
 ---
 
 > “Code is like poetry; make it beautiful, readable, and full of life.” 🌱
