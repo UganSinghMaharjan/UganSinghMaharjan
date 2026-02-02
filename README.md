@@ -17,7 +17,7 @@ I love clean UI, responsive design, and solving real-world problems with code.
 ## 🔭 Current Focus
 - Building **React + Node.js fullstack apps**
 - Improving **UX/UI with TailwindCSS**
-- Working with **REST APIs & Supabase**
+- Working with **REST APIs & FastAPI**
 
 ---
 
