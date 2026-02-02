@@ -26,7 +26,8 @@ I love clean UI, responsive design, and solving real-world problems with code.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugan-maharjan-925abb322)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9779803389703)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:uganmahrjan9@gmail.com)
-
+- [![Portfolio](https://img.shields.io/badge/Portfolio-uganmaharjan.com.np-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://uganmaharjan.com.np)
+- 
 ---
 
 ## 📊 GitHub Stats
