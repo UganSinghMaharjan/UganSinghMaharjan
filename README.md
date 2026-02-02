@@ -31,9 +31,23 @@ I love clean UI, responsive design, and solving real-world problems with code.
 
 ## 📊 GitHub Stats
 
-![Ugan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true&theme=radical&cache_seconds=1800)
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=UganSinghMaharjan&show_icons=true"
+      alt="Ugan's GitHub Stats"
+    />
+  </picture>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UganSinghMaharjan&layout=compact&theme=radical)
 
 ---
 
